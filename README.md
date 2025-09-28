@@ -1,7 +1,7 @@
 # python-script-controller
 ブラウザからpythonスクリプトを簡易操作できるアプリ。node.jsでうごくよ
 ## 概要
-ブラウザから、discordやtwitterのボットなど常時起動させておきたいpythonスクリプトを簡単に始動、再起動できるようにするアプリです。　　
+ブラウザから、discordやtwitterのボットなど常時起動させておきたいpythonスクリプトを簡単に始動、再起動できるようにするアプリです。  
 node.jsで動きます。  
 linux専用に開発したので多分windowsでは動かないんじゃないかと思います。  
 
