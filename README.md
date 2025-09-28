@@ -7,9 +7,10 @@ linux専用に開発したので多分windowsでは動かないんじゃない�
 
 ## インストール、起動方法
 1 [このリンク](https://nodejs.org/ja/downloads://)に従ってnode.jsをインストールします  
-2 `npm init -y`  
-3 `npm install express socket.io sqlite3`  
-4 `node server.js`  
+2 リポジトリをクローン  
+3 `npm init -y`  
+4 `npm install express socket.io sqlite3`  
+5 `node server.js`  
 
 ## 使い方、その他
 設定アイコンから設定ができます。  
