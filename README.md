@@ -6,7 +6,7 @@ node.jsで動きます。
 linux専用に開発したので多分windowsでは動かないんじゃないかと思います。  
 
 ## インストール、起動方法
-1 [このリンク](https://nodejs.org/ja/downloads)に従ってnode.jsをインストールします  
+1 [このリンク](https://nodejs.org/ja)に従ってnode.jsをインストールします  
 2 リポジトリをクローン  
 3 `npm init -y`  
 4 `npm install express socket.io sqlite3`  
